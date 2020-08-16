@@ -49,6 +49,13 @@
                     <input type="tel" name="telefone" id="telefone" maxlength="15" required >
                     <label for="telefone">Telefone do Cliente </label>
                 </div>
+
+                <!-- botões -->
+
+                <div class="input-field col s12">
+                    <input type="submit" value="cadastrar" class="btn blue">
+                    <input type="submit" value="limpar" class="btn red">
+                </div>
                 
             </fieldset>
         </form>
